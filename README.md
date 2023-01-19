@@ -1,17 +1,3 @@
-# Train and evaluate regression models
-
-Models to practise linear regression algorithim.
-
-Regression works by establishing a relationship between variables in the data that represent characteristics of the thing being observed (known as the features) and the variable to predict (known as the label).
-Regression analysis is a method of mathematically determining which of those variables has an effect. It provides answers to the questions:
-Which factors are most important?
-Which of these can we disregard? 
-How do those variables interact? 
-How certain are we that all of these variables are correct?
-
-
-We will create several models, ranging from simple to complex, using the regression algorithm, and then compare the performance of each model.
-
 # PRIMARY PROJECT IDEA
 prediction of start-up returns
 
