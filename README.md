@@ -26,10 +26,10 @@ To give recommendations based on our model outcomes.
 ### Research Hypothesis
 
 To accomplish the objectives of the study and provide solutions to the research question, the following hypothesis are formulated in their respective null forms:
-H01: R&D Spend does not significantly affect start-up returns.
-H02: Administration does not significantly affect start-up returns.
-H03: Marketing Spend does not significantly affect start-up returns.
-H04: State does not significantly affect start-up returns.
+* H01: R&D Spend does not significantly affect start-up returns.
+* H02: Administration does not significantly affect start-up returns.
+* H03: Marketing Spend does not significantly affect start-up returns.
+* H04: State does not significantly affect start-up returns.
 
 
 ### Metric for Success
